@@ -1,0 +1,19 @@
+{
+  "name": "meta-suite",
+  "version": "1.0.0",
+  "description": "A SEO / metadata suite.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Capevace/meta-suite.git"
+  },
+  "author": "Lukas von Mateffy (@Capevace)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Capevace/meta-suite/issues"
+  },
+  "homepage": "https://github.com/Capevace/meta-suite#readme"
+}
